@@ -1,0 +1,10 @@
+keys = [
+    'Nicholas Wieland <ngw@nofeed.org>: 69443D2D08C834E3708E384D11273B90C02641D6',
+    'Test Key <test1@example.com>: 1D78DDC33776FB6702860195E2485347ED053AEC'
+]
+path = '/Users/ngw/Projects/minitrue_example'
+
+[configs]
+'config/config.toml.mt' = 'config/config.toml'
+'config/database.yml.mt' = 'config/database.yml'
+'config/puma.rb.mt' = 'config/puma.rb'
