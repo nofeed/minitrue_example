@@ -20,7 +20,7 @@ $ minitrue set db_username the_mighty_ngw
 $ minitrue set db_password vEry_s3cur3p4ss
 $ minitrue set db_name database_name
 
-$ minitrue addconfig config/config.toml.mt
+$ minitrue addconfig config/config.toml.mt config/config.toml
 $ minitrue addconfig config/database.yml.mt config/database.yml
 $ minitrue addconfig config/puma.rb.mt config/puma.rb
 
